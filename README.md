@@ -23,3 +23,6 @@ Logic for gameplay
 6. Bolts will not go through walls
 7. On Collision with Bolts will Game Over
 8. On Collision with 4 Bugs will Player Wins!
+
+
+Logan Edit: Idea - Game can be a clone of pacman or similar to snake. If similar to snake the player must reach the bug before the bug reaches the CPU. 
